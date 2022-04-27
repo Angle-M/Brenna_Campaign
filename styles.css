@@ -6,7 +6,7 @@
 }
 
 .navbar {
-    background:#6E8B99;
+    background:#8C92AC;
     height:80px;
     display:flex;
     justify-content:center;
@@ -206,7 +206,7 @@ Hero Section Css
 */
 
 .main{
-    background-color: #6E8B99;
+    background-color: #8C92AC;
 }
 
 .main__container{
@@ -216,7 +216,7 @@ Hero Section Css
     justify-self: center;
     margin:0 auto;
     height:90vh;
-    background-color:#6E8B99;
+    background-color:#8C92AC;
     z-index:1;
     width:100%;
     max-width:1300px ;
@@ -225,7 +225,7 @@ Hero Section Css
 
 .main__content h1{
     font-size:4rem;
-    background-color:#a3e4e3;
+    background-color:#8C92AC;
     background-image:linear-gradient(to top, #FAD20A 0%, #FDF003 100% );
     background-size:100%;
     -webkit-background-clip:text;
@@ -237,7 +237,7 @@ Hero Section Css
 
 .main__content h2{
     font-size:4rem;
-    background-color:#08daff;
+    background-color:#8C92AC;
     background-image:linear-gradient(to top, #FAD20A 0%, #FDF003 100%) ;
     background-size:100%;
     -webkit-background-clip:text;
@@ -248,7 +248,7 @@ Hero Section Css
 
 .main__content h5 {
     font-size: 1rem;
-    background-color: #a3e4e3;
+    background-color: #8C92AC;
     background-image: linear-gradient(to top, #FAD20A 0%, #FDF003 100%);
     background-size: 100%;
     -webkit-background-clip: text;
@@ -392,7 +392,7 @@ Hero Section Css
 /*Services Section CSS*/
 
 .services{
-    background:#6E8B99;
+    background:#8C92AC;
     display:flex ;
     flex-direction:column ;
     align-items:center ;
@@ -400,7 +400,7 @@ Hero Section Css
 }
 
 .services h1{
-    background-color:#ff8177 ;
+    background-color:#8C92AC ;
     background-image:linear-gradient(to right,#FDF003 0%, #FDF003 0%, #FCE107 21%, #FCE107 52%, #FAD20A 78%, #FAD20A 100% ) ;
     background-size: 100%;
     margin-bottom:5rem ;
@@ -454,7 +454,7 @@ Hero Section Css
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #08daff;
+    background: #8C92AC;
     position: absolute;
     top: 440px;
     left: 30px;
@@ -496,7 +496,7 @@ Hero Section Css
 
 /* Footer CSS */
 .footer__container {
-    background-color: #6E8B99;
+    background-color: #8C92AC;
     padding: 5rem 0;
     display: flex;
     flex-direction: column;
